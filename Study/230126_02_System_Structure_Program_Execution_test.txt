@@ -1,9 +1,11 @@
 1. CPU를 특정 프로그램이 독점하는 것으로부터 보호하는 것은?
+timer
 
 2. 커널 주소 공간의 내용 중 하드웨어를 관리하기 위해 
 하드웨어 종류마다 자료구조를 만드러 관리하는 것은?
+data
 
-3. 저장장치 계층 구조 중 Secondary가 아닌 것은?
+3. 저장장치 계층 구조 중 Secondary가 아닌 것은? C
 a. Magnetic Disk
 b. Magnetic Tape
 c. Main Memory
