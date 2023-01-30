@@ -1,0 +1,13 @@
+1. 여유 공간 마련을 위해 프로세스를통째로 메모리에서 디스크로 쫒아내는 것은?
+a. PCB
+b. CPU scheduler
+c. Swapper
+d. Long-term scheduler
+
+2. 중기 스케줄러에 의한 변경된 프로세스의 상태는?
+a. Running
+b. Ready
+c. Suspended
+d. Blocked 
+
+3. thread를 사용해 병렬성을 높이기 위한 조건은?
